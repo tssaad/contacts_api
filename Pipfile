@@ -6,6 +6,11 @@ name = "pypi"
 [packages]
 django = "*"
 djangorestframework = "*"
+postgres = "*"
+gunicorn = "*"
+drf-yasg = "*"
+pyjwt = "*"
+django-on-heroku = "*"
 
 [dev-packages]
 
